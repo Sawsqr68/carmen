@@ -10,7 +10,7 @@
 
 module github.com/0xsoniclabs/carmen/go
 
-go 1.24.2
+go 1.25.0
 
 require (
 	github.com/0xsoniclabs/tracy v0.0.0-20251027125423-00a5ab7968fb
@@ -25,14 +25,14 @@ require (
 	github.com/syndtr/goleveldb v1.0.1-0.20210819022825-2ae1ddf74ef7
 	github.com/urfave/cli/v2 v2.27.5
 	go.uber.org/mock v0.2.0
-	golang.org/x/crypto v0.36.0
+	golang.org/x/crypto v0.52.0
 	golang.org/x/exp v0.0.0-20230713183714-613f0c0eb8a1
 )
 
 require (
 	github.com/StackExchange/wmi v1.2.1 // indirect
 	github.com/bits-and-blooms/bitset v1.20.0 // indirect
-	github.com/consensys/gnark-crypto v0.18.0 // indirect
+	github.com/consensys/gnark-crypto v0.18.1 // indirect
 	github.com/cpuguy83/go-md2man/v2 v2.0.5 // indirect
 	github.com/crate-crypto/go-eth-kzg v1.4.0 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
@@ -57,7 +57,7 @@ require (
 	github.com/tklauser/numcpus v0.6.1 // indirect
 	github.com/xrash/smetrics v0.0.0-20240521201337-686a1a2994c1 // indirect
 	golang.org/x/sync v0.12.0 // indirect
-	golang.org/x/sys v0.36.0 // indirect
+	golang.org/x/sys v0.45.0 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
